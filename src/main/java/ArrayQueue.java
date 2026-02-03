@@ -52,3 +52,4 @@ public class ArrayQueue<E> implements QueueADT<E> {
         return data.length - 1; 
     }
 }
+
